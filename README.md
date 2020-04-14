@@ -8,6 +8,10 @@ JSON Formatter started as an [AngularJS directive](https://github.com/mohsen1/js
 
 **[Live Demo](http://azimi.me/json-formatter-js/)**
 
+```
+SUP=[Live Demo](http://azimi.me/json-formatter-js/)
+```
+
 ### Usage
 
 Install via npm
